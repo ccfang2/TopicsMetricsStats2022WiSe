@@ -2,7 +2,7 @@
 
 > Chencheng Fang
 
-This repository contains all materials I created for the presentation at this topic course. I presented [Rambachan and Roth (2022)](), which provides two ways (Conditional and Hybrid Method; Fixed Length Confidence Intervals) to handle with the case in DiD when parallel trends are violated.
+This repository contains all materials I created for the presentation at this topic course. I presented [Rambachan and Roth (2022)](https://raw.githubusercontent.com/ccfang2/TopicsMetricsStats2022WiSe/main/HonestParallelTrends_Main.pdf), which provides two ways (Conditional and Hybrid Method; Fixed Length Confidence Intervals) to handle with the case in DiD when parallel trends are violated.
 
 ## Presentation
 
