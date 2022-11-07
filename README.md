@@ -6,7 +6,7 @@ This repository contains all materials I created for the presentation at this to
 
 ## Presentation
 
-Slides can be downloaded from [here](raw.githubusercontent.com/ccfang2/TopicsMetricsStats2022WiSe/main/final_presentation_WiSe.md), or be viewed directly on Github [here](https://github.com/ccfang2/TopicsMetricsStats2022WiSe/blob/main/final_presentation_WiSe.md).
+Slides can be downloaded from [here](https://raw.githubusercontent.com/ccfang2/TopicsMetricsStats2022WiSe/main/final_presentation_WiSe.md), or be viewed directly on Github [here](https://github.com/ccfang2/TopicsMetricsStats2022WiSe/blob/main/final_presentation_WiSe.md).
 
 ## Simulation
 
