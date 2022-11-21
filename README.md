@@ -14,7 +14,7 @@ Simulation code and results are in folder 'SimHonestDiD'.
 
 ## Shiny App
 
-Shiny App code is in folder 'RRSensitivityTest'.
+Please check this [repository](https://github.com/ccfang2/HonestDiDSenAnlys) for detailed information on the Shiny app.
 
 ## Other Resources
 
