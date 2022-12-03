@@ -1,6 +1,6 @@
 # Topics in Metrics and Stats, 2022 Winter Semester
 
-> Chencheng Fang
+> Chencheng Fang, Bonn Graduate School of Economics
 
 This repository contains all materials I created for the presentation at this topic course. I presented [Rambachan and Roth (2022)](https://raw.githubusercontent.com/ccfang2/TopicsMetricsStats2022WiSe/main/HonestParallelTrends_Main.pdf), which provides two ways (Conditional and Hybrid Method; Fixed Length Confidence Intervals) to handle with the case in DiD when parallel trends are violated.
 
@@ -10,11 +10,11 @@ Slides can be downloaded from [here](https://raw.githubusercontent.com/ccfang2/T
 
 ## Simulation
 
-Simulation code and results are in folder 'SimHonestDiD'.
+Simulation code and results are in folder [SimHonestDiD](https://github.com/ccfang2/TopicsMetricsStats2022WiSe/tree/main/SimHonestDiD).
 
 ## Shiny App
 
-Please check this [repository](https://github.com/ccfang2/HonestDiDSenAnlys) for detailed information on the Shiny app.
+Click this [link](https://ccfang2.shinyapps.io/HonestDiDSenAnlys/) to access the Shiny app that facilitates the sensitivity analysis proposed in [Rambachan and Roth (2022)](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf). Please check this [repository](https://github.com/ccfang2/HonestDiDSenAnlys) for detailed information on this Shiny app.
 
 ## Other Resources
 
@@ -23,4 +23,4 @@ Please check this [repository](https://github.com/ccfang2/HonestDiDSenAnlys) for
 
 ## Reference
 
-Rambachan, A. and Roth, J. (2022), A more credible approach to parallel trends, Forthcoming, Review of Economic Studies
+Rambachan, A. and Roth, J. (2022), [A more credible approach to parallel trends](https://jonathandroth.github.io/assets/files/HonestParallelTrends_Main.pdf), Forthcoming, Review of Economic Studies
